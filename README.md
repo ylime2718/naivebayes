@@ -1,2 +1,2 @@
 # naivebayes
-Naive Bayes Classifier, python implementation
+Naive Bayes Classifier, Python implementation, built on the numpy library.
